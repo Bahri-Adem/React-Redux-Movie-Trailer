@@ -12,3 +12,10 @@ Nom de l'application est une plateforme en ligne similaire à Netflix, qui propo
 - Node.js : Environnement d'exécution JavaScript côté serveur.
 - API Keys : Utilisation d'API Keys pour accéder à des services tiers tels que la récupération de données de films et les recommandations.
 - Autres dépendances : Liste des autres dépendances majeures utilisées dans le projet, par exemple, axios, react-router, etc.
+
+![cap1](https://github.com/Bahri-Adem/React-Redux-Movie-Trailer/assets/103949052/78685968-caed-45fb-81ae-740062f380cd)
+
+![cap2](https://github.com/Bahri-Adem/React-Redux-Movie-Trailer/assets/103949052/85368c9c-39b0-497d-8697-6575eb696569)
+
+![cap3](https://github.com/Bahri-Adem/React-Redux-Movie-Trailer/assets/103949052/20cd4e43-b652-4edb-b3ec-404cdc8df8d4)
+
